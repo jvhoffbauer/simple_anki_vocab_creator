@@ -1,0 +1,4 @@
+run - correr
+table - la mesa
+beautiful - bonito/a
+hospital - el hospital
